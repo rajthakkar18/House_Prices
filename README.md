@@ -1,9 +1,11 @@
 **House Prices Prediction Project**
 
-Description
+Description:
+
 This project aims to select the best model for predicting house prices. Various machine learning models are evaluated to find the one that provides the most accurate predictions.
 
-Dependencies
+Dependencies:
+
 To run the notebook, make sure you have the following libraries installed:
 pip install pandas numpy matplotlib seaborn scikit-learn
 
